@@ -1,2 +1,2 @@
 # List the current UTXOs in your wallet.
-bitcoin-cli -regtest -rpcwallet=builderswallet listunspent
+bitcoin-cli -regtest -rpcwallet=btrustwallet listunspent
